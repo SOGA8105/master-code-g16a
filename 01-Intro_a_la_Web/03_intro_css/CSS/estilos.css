@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&family=Dancing+Script:wght@400;500&family=Nunito:wght@200&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Nunito:wght@200&family=Playfair+Display&display=swap');
+body{
+    background-color: #000;
+}
+header{
+    background-color: aqua;
+}
+.blanco{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
+section{
+    border: purple dashed;
+    background-color: #ffffff;
+    width: 100%;
+}
+section .colores{
+    border: red solid 8px;
+    border-color: #cc0000;
+    border-right-color: chartreuse;
+    border-bottom-color: yellow;
+    width: 50%;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
+.texto{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
