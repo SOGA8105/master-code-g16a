@@ -172,7 +172,7 @@ body h1 {
   color: rgb(19, 18, 18);
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1300x) {
   nav {
     display: none;
   }
